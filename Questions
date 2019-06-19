@@ -1,0 +1,38 @@
+.       How do you handle exceptions in your project?
+2.       What all Connectors have you known and used in the project you worked?
+3.       Anypoint platform questions (like how we apply policy to our API, how do you check the status of your api in API manager, how do you add a property to your API)
+4.       What is difference between traits and resource types
+5.       We have username, password present in our property file. How can we not expose it? (secure property placeholder)
+6.       What is autodiscovery and how do we apply autodiscovery to our projects?
+7.       What all dataweave functions have you used?
+8.       How do you do unit testing and what all issues you faced?
+9.       Can you tell one scenario where scatter gather can be used?
+10.   what is the difference between mule api and mule service?
+11.   How can you secure your api ? 
+12.   What is RAML and why we use it?
+13.   Types of Exception Handling and custom exception handling?
+14.   Flow Processing Strategies?
+15.   What is SEDA ARCHITECTURE?
+16.   What is domain, how do we use it?
+17.   What is transaction management?
+18.   Difference between SOAP and REST services?
+19.   What is CORS and how do we handling?
+20.   What is Structure of a Mule Message?
+21.   What are deff between Debugging, Mule Message, MEL, and payload?
+22.   What are the best Practices in RAML you have followed in previews project and organizations?
+23.   Implementation API’s using Any point Studio?
+24.   How do we Exposing and SOAP Service Mule?
+25.   How do we using Message Variables in DWL?
+26.   What will happens when exception happens in a flow?
+27.   What are the null safe conditions using in mule?
+28.   How Splitter and Aggregators works by use for Each
+29.   How do we Performance Tuning by configuring Flow Processing Strategies with example
+30.   Expressions for XML ,JSON and JAVA
+31.   Generating flows from RAML? How it works?
+32.   What is API kit and how we can use?
+33.   How do we invoke java function in dataweave 1.0? 
+1] What is a pluck operator?
+2] Scenario based questions : how to iterate/filter  a json array in java as well as datweave ?
+3] what is batch scope and how to use it ?
+4] How to do bulk insert in database ?
+5] what is the difference between for-each and batch ?
